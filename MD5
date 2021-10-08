@@ -1,0 +1,15 @@
+cec7db1f839addb8db7294e8a5c990d7 *DESCRIPTION
+45e762658eff70db62226a5f0625ebd1 *NAMESPACE
+27773551497332c4be35accd6ad83d44 *R/CLbyDisease.R
+c9185ff1a4c55ba0501d73d9e932d910 *R/getProfilesMetadata.R
+fa6a435bc7a8c00590bca3df93ccbaa4 *R/profileCombinations.R
+9e633bb77df441c42ae0f2403ab11923 *R/retriever.R
+33eef4b941b687164c4aa429916517a4 *README.md
+bdae339e13bdc5c3f8955b23b66a35b7 *data/CLbyDisease.RData
+cbe2eb86a59c9b429821537f058c4288 *data/datalist
+9623fafd76c778fe16d6ced28c140ca7 *inst/BRCA.csv
+1bc40a716a4b60a70f5ab9eecbf37122 *inst/method.png
+edd9644ca59727af6dd374fe33e0f4b0 *inst/retriever.png
+ee85981cf976c363a33cad2576aa00b3 *man/CLbyDisease.Rd
+1cb5a2380420138196ffddd95e73ce2e *man/profileCombinations.Rd
+48e382e6cb05f5c15912de3e1a10a49d *man/retriever.Rd
